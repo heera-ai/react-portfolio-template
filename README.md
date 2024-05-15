@@ -1,14 +1,10 @@
-![thumbnail](https://user-images.githubusercontent.com/16558205/180779213-ea740975-3df1-460a-a964-0a623ee25872.png)
+![thumbnail](https://github.com/heera-ai/react-portfolio-template/tree/main/public/images/home.png)
 
-### Live - https://react-portfolio-template.netlify.app/
-
-### Demo Video - https://www.youtube.com/watch?v=62_HLbx2zLQ&t=9s
+### Live - [heeralal](https://heeralal.in/)
 
 ### Tutorials
 
-Youtube - https://www.youtube.com/watch?v=8cmJ2kR4SpM
-
-Blog - https://blog.chetanverma.com/how-to-build-a-portfolio-website-using-nextjs-and-tailwindcss
+Youtube - [Heera-ai](https://www.youtube.com/channel/UC37YVZhcJQmzmyFjZ0ZFa5A)
 
 ### Features - 
 
@@ -65,15 +61,4 @@ I would be very happy to review your PRs and all the awesome things that you can
 If you liked this portfolio template, don't forget to give it a ⭐.
 
 ## Awesome Contributors
-[@Aryan3212](https://github.com/Aryan3212) [@achu-krishna](https://github.com/achu-krishna)
-
-## Supporting
-Many hours of hard work have gone into this project. Your support will be very appreciated!
-
-[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/chetanverma)
-
-
-
-
-
-
+[@heera-ai](https://github.com/heera-ai)
