@@ -2,19 +2,20 @@
   "name": "heera-ai-portfolio",
   "version": "1.0",
   "private": true,
+  "homepage": "https://heera-ai.github.io/react-portfolio-template",
   "scripts": {
     "dev": "next dev",
     "build": "next build",
     "start": "next start",
+    "export": "next export",
     "lint": "next lint",
-    "predeploy": "npm run build",
+    "predeploy": "npm run build && npm run export",
     "deploy": "gh-pages -d out"
   },
   "dependencies": {
     "@headlessui/react": "^1.6.6",
     "autoprefixer": "^10.4.7",
     "custom-cursor-react": "^1.0.5",
-    "gh-pages": "^6.1.1",
     "gray-matter": "^4.0.3",
     "gsap": "^3.10.4",
     "next": "12.1.6",
@@ -35,6 +36,7 @@
   },
   "devDependencies": {
     "eslint": "8.15.0",
-    "eslint-config-next": "12.1.6"
+    "eslint-config-next": "12.1.6",
+    "gh-pages": "^6.1.1"
   }
 }
